@@ -3,8 +3,8 @@
 <p align="center"></p>
 <h1 align="center">
     <a href="https://nodejs.org/en/">🔗 Nodejs</a>
-    <a href="https://www.sqlite.org/">💾 SQLite</a>
-    <a href="https://www.prisma.io/">Prisma</a>
+    <a href="https://www.sqlite.org/"> 💾 SQLite</a>
+    <a href="https://www.prisma.io/"> 💫 Prisma</a>
 </h1>
 <p align="center">🚀 Aplicação simples para fins de estudo.</p>
 <p align="center">Nele, você pode ver uma configuração de simples de autenticação de usuário com o mecanismo de <u>refresh token</u> utilizando a biblioteca <strong>jsonwebtoken</strong>.</p>
